@@ -30,7 +30,7 @@
 ### Database
 #### 1. NoSQL
 - Graph Databases
-#### 1. RDBMS
+#### 2. RDBMS
 - Replication
 - Sharding
 - SQL Tuning
