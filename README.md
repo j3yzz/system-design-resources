@@ -24,6 +24,7 @@
 2. [System Design — Design a Monitoring System](https://gongybable.medium.com/system-design-design-a-monitoring-system-f0f0cbafc895)
 
 ### Cloud Design Patterns
+1. [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
 ### Availability Patterns
 #### 1. Replication
