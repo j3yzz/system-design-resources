@@ -20,6 +20,8 @@
 ### Caching
 
 ### Monitoring
+1. [Monitoring and diagnostics guidance](https://learn.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
+2. [System Design — Design a Monitoring System](https://gongybable.medium.com/system-design-design-a-monitoring-system-f0f0cbafc895)
 
 ### Cloud Design Patterns
 
